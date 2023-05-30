@@ -1,6 +1,8 @@
 # Redis-Workshops
 
-Collection of Google-Cloab - based notebooks highlighting different aspects of Redis Enterprise and Redis Stack.
+![Redis](https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120)
+
+Collection of Google-Colab - based notebooks highlighting different aspects of Redis Enterprise and Redis Stack.
 
 ## Common Tools
 
