@@ -1,6 +1,6 @@
 # Vector Similarity Search with Redis
 
-[Always-on demo](https://antonum-redis-vss-streamlit-streamlit-app-p4z5th.streamlitapp.com/)
+[Always-on demo](https://antonum-redis-vss-streamlit-streamlit-app-p4z5th.streamlit.app/)
 
 ![Redis](https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120)
 
