@@ -8,6 +8,7 @@ There are three versions of the notebook, using different LLMs.
 
 - OpenAI - requires OpenAI API key
 - Dolly-v2 - no additional requirements, but since the model is running within the notebook runtime, slowest and of the least quality
-- Google Cloud VertexAI - requires active GCP account and VertexAI API enabled.
+- Google Gemini - requires active GCP account and Google API key.
+- AWS Bedrock - requires AWS access key ID and secret access key
 
 OpenAI notebook requires OpenAI API key. You can find your API key at https://platform.openai.com/account/api-keys.
