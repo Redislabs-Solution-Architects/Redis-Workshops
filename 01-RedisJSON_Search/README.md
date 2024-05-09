@@ -6,4 +6,4 @@ This notebook is an adapted and simplified version of the RedisInsight QuickGuid
 
 For the full experience we'd recommend installing Redis Insight and going through tutorial there.
 
-https://redis.com/redis-enterprise/redis-insight/
+https://redis.io/insight/
