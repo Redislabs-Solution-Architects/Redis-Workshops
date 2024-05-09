@@ -1,6 +1,6 @@
 # Redis Workshop 00 Setup
 
-![Redis](https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120)
+![Redis](https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp&quality=85,75&width=120)
 
 This notebook, as most of the notebooks in this series are designed to run either with built-in RedisStack or Redis Cloud.
 
