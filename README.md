@@ -24,4 +24,5 @@ Collection of Google-Colab - based notebooks highlighting different aspects of R
 
 - https://redis.io/docs/latest/ Redis Documentation
 - https://redis.io/commands/ Redis Commands Reference
+- https://www.redisvl.com/ RedisVL Library
 - https://redis-py.readthedocs.io/en/stable/index.html Redis Python client docs
